@@ -20,21 +20,21 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
       <h3>🧪 Flotación</h3>
       <p>Procesos fisicoquímicos y reactivos.</p>
       <a href="https://encuentrometalurgia.com/flotacion-2026/">
-        <img src="https://img.shields.io/badge/Ver_Congreso_2026-✨_Explorar-0B3C6E?style=flat-square&logo=react&logoColor=white" width="100%" alt="Flotación">
+        <img src="https://img.shields.io/badge/Ver_Congreso_2026-_Explorar-0B3C6E?style=flat-square&logo=react&logoColor=white" width="100%" alt="Flotación">
       </a>
     </td>
     <td width="33%" valign="top">
       <h3>💧 Aguas y Relaves</h3>
       <p>Gestión ambiental y sostenibilidad.</p>
       <a href="https://encuentrometalurgia.com/aguas-y-relaves-2026/">
-        <img src="https://img.shields.io/badge/Ver_Congreso_2026-🌊_Explorar-0077B6?style=flat-square&logo=droplet&logoColor=white" width="100%" alt="Aguas y Relaves">
+        <img src="https://img.shields.io/badge/Ver_Congreso_2026-_Explorar-0077B6?style=flat-square&logo=droplet&logoColor=white" width="100%" alt="Aguas y Relaves">
       </a>
     </td>
     <td width="33%" valign="top">
       <h3>🤖 Minería 5.0</h3>
       <p>Transformación digital e IA.</p>
       <a href="https://encuentrometalurgia.com/mineria-5-0-2026/">
-        <img src="https://img.shields.io/badge/Ver_Congreso_2026-⚡_Explorar-6E56CF?style=flat-square&logo=cpu&logoColor=white" width="100%" alt="Minería 5.0">
+        <img src="https://img.shields.io/badge/Ver_Congreso_2026-_Explorar-6E56CF?style=flat-square&logo=cpu&logoColor=white" width="100%" alt="Minería 5.0">
       </a>
     </td>
   </tr>
@@ -43,14 +43,14 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
       <h3>⚙️ Conminución</h3>
       <p>Chancado, molienda y eficiencia.</p>
       <a href="https://encuentrometalurgia.com/conminucion2025/">
-        <img src="https://img.shields.io/badge/Ver_Congreso-⚙️_Explorar-EE4623?style=flat-square&logo=settings&logoColor=white" width="100%" alt="Conminución">
+        <img src="https://img.shields.io/badge/Ver_Congreso-_Explorar-EE4623?style=flat-square&logo=settings&logoColor=white" width="100%" alt="Conminución">
       </a>
     </td>
     <td width="33%" valign="top">
       <h3>🔬 Muestreo</h3>
       <p>Control de calidad y geometalurgia.</p>
       <a href="https://encuentrometalurgia.com/muestreo-2027/">
-        <img src="https://img.shields.io/badge/Ver_Congreso_2027-🔬_Explorar-339933?style=flat-square&logo=microscope&logoColor=white" width="100%" alt="Muestreo">
+        <img src="https://img.shields.io/badge/Ver_Congreso_2027-_Explorar-339933?style=flat-square&logo=microscope&logoColor=white" width="100%" alt="Muestreo">
       </a>
     </td>
     <td width="33%" valign="top">
@@ -71,13 +71,13 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
     </td>
     <td width="30%" align="center" valign="middle">
       <a href="http://expocobre.com">
-        <img src="https://img.shields.io/badge/EXPOMINERÍA-🔥_Ir_a_Expocobre.com-FF6F00?style=for-the-badge&logo=copper&logoColor=white" width="100%" alt="Expocobre">
+        <img src="https://img.shields.io/badge/EXPOMINERÍA-_Ir_a_Expocobre.com-FF6F00?style=for-the-badge&logo=copper&logoColor=white" width="100%" alt="Expocobre">
       </a>
     </td>
   </tr>
 </table>
 
-> 📅 Consulta toda la programación completa de eventos en **[encuentrometalurgia.com](https://encuentrometalurgia.com/)**
+>  Consulta toda la programación completa de eventos en **[encuentrometalurgia.com](https://encuentrometalurgia.com/)**
 
 ---
 
@@ -91,19 +91,17 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
 
 ---
 
-## 🤝 Formas de Participar
+##  Formas de Participar
 
 | Modalidad | Detalle de Participación |
 | :--- | :--- |
-| ✍️ **Autor** | Presenta tu trabajo técnico e investigación ante la comunidad minera internacional. |
-| 🤝 **Stands & Auspicios** | Posiciona tu empresa y soluciones tecnológicas frente a decisiones clave de la industria. |
-| 🎟️ **Asistencia** | Participa en nuestras ponencias y conéctate con líderes y expertos del sector. |
+|  **Autor** | Presenta tu trabajo técnico e investigación ante la comunidad minera internacional. |
+|  **Stands & Auspicios** | Posiciona tu empresa y soluciones tecnológicas frente a decisiones clave de la industria. |
+|  **Asistencia** | Participa en nuestras ponencias y conéctate con líderes y expertos del sector. |
 
 ---
 
-## 💻 Tech Stack & Herramientas
-
-**Desarrollo & Backend:**
+##  Tech Stack & Herramientas
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EE4623?style=flat-square&logo=codeigniter&logoColor=white)
@@ -111,8 +109,6 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Inteligencia Artificial, Datos & Entorno:**
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Architecture-FF6F00?style=flat-square&logoColor=white)
@@ -122,18 +118,6 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
 ![Vector DBs](https://img.shields.io/badge/Vector_Databases-6E56CF?style=flat-square&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
----
-
-## 🚀 Proyectos Destacados
-
-| Repositorio | Descripción General |
-| :--- | :--- |
-| 📇 **[sistemabases-intermet](https://github.com/Intermetperu/sistemabases-intermet)** | Plataforma de gestión de contactos con carga masiva (CSV/Excel), deduplicación, segmentación avanzada y mailing. |
-| 🎟️ **[Sistema de gestión de eventos](https://github.com/Intermetperu/Sistema-de-gesti-n-de-eventos-con-registro-de-participantes.)** | Registro de participantes, escaneo de códigos QR para control de acceso e impresión en vivo de badges Brother. |
-| 🎓 **[Generador de credenciales](https://github.com/Intermetperu/Sistema-Generador-de-credenciales-y-env-o-de-certificados)** | Generación automatizada y envío masivo de certificados digitales y credenciales personalizadas. |
-| 🎴 **[Escáner de tarjetas IA (Gemini)](https://github.com/Intermetperu/Esc-ner-de-tarjetas-de-presentaci-n-con-IA-Gemini-)** | OCR inteligente alimentado por Gemini AI para extraer datos de tarjetas físicas a hojas de Excel. |
-
 ---
 
 📍 **Lima, Perú** — *Liderando el conocimiento técnico y la tecnología minera.*
