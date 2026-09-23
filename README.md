@@ -18,21 +18,92 @@
 
 <br>
 
-## 🌐 Congresos Técnicos Internacionales
+<div align="center">
 
-> *Conectamos innovación, tecnología y experiencia técnica para construir el futuro de la minería y la metalurgia.*
+## 🌐 CONGRESOS TÉCNICOS INTERNACIONALES
 
-| Evento | Especialidad | Enlace Directo |
-| :--- | :--- | :---: |
-| 🧪 **Flotación de Minerales** | Metalurgia y Procesos | [Ver Evento](https://encuentrometalurgia.com/flotacion-2026/) |
-| 💧 **Aguas y Relaves** | Gestión Ambiental y Sostenibilidad | [Ver Evento](https://encuentrometalurgia.com/aguas-y-relaves-2026/) |
-| 🤖 **Minería 5.0 y Excelencia Operacional** | Transformación Digital | [Ver Evento](https://encuentrometalurgia.com/mineria-5-0-2026/) |
-| ⚙️ **Conminución** | Procesamiento de Minerales | [Ver Evento](https://encuentrometalurgia.com/conminucion2025/) |
-| 🔬 **Muestreo** | Control de Calidad y Geometalurgia | [Ver Evento](https://encuentrometalurgia.com/muestreo-2027/) |
-| ⚗️ **Hidrometalurgia** | Procesos Químicos y Extracción | [Ver Evento](https://encuentrometalurgia.com/hidrometalurgia-2024/) |
-| 🟠 **Expocobre** | Feria Internacional del Cobre | [Ir a Expocobre](http://expocobre.com) |
+> *Uniendo innovación, tecnología de vanguardia y conocimiento para el futuro de la minería global.*
 
-📅 *Consulta la agenda completa de capacitaciones en **[encuentrometalurgia.com](https://encuentrometalurgia.com/)***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8408-032918872f2d.gif" width="100%" height="2px" />
+
+</div>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 Flotación de Minerales</h3>
+      <p><i>Metalurgia, Reactivos y Procesos Fisicoquímicos</i></p>
+      <a href="https://encuentrometalurgia.com/flotacion-2026/">
+        <img src="https://img.shields.io/badge/Ver_Congreso_2026-✨_Explorar-0B3C6E?style=for-the-badge&logo=react&logoColor=white" alt="Flotación">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💧 Aguas y Relaves</h3>
+      <p><i>Gestión Ambiental, Sostenibilidad y Economía Circular</i></p>
+      <a href="https://encuentrometalurgia.com/aguas-y-relaves-2026/">
+        <img src="https://img.shields.io/badge/Ver_Congreso_2026-🌊_Explorar-0077B6?style=for-the-badge&logo=droplet&logoColor=white" alt="Aguas y Relaves">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Minería 5.0 & Excelencia</h3>
+      <p><i>Transformación Digital, Automatización e Inteligencia Artificial</i></p>
+      <a href="https://encuentrometalurgia.com/mineria-5-0-2026/">
+        <img src="https://img.shields.io/badge/Ver_Congreso_2026-⚡_Explorar-6E56CF?style=for-the-badge&logo=cpu&logoColor=white" alt="Minería 5.0">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Conminución</h3>
+      <p><i>Chancado, Molienda y Eficiencia Energética</i></p>
+      <a href="https://encuentrometalurgia.com/conminucion2025/">
+        <img src="https://img.shields.io/badge/Ver_Congreso-⚙️_Explorar-EE4623?style=for-the-badge&logo=settings&logoColor=white" alt="Conminución">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Muestreo de Minerales</h3>
+      <p><i>Control de Calidad, Control de Pérdidas y Geometalurgia</i></p>
+      <a href="https://encuentrometalurgia.com/muestreo-2027/">
+        <img src="https://img.shields.io/badge/Ver_Congreso_2027-🔬_Explorar-339933?style=for-the-badge&logo=microscope&logoColor=white" alt="Muestreo">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚗️ Hidrometalurgia</h3>
+      <p><i>Lixiviación, Extracción por Solventes y Electroobtención</i></p>
+      <a href="https://encuentrometalurgia.com/hidrometalurgia-2024/">
+        <img src="https://img.shields.io/badge/Ver_Congreso-⚗️_Explorar-3776AB?style=for-the-badge&logo=flask&logoColor=white" alt="Hidrometalurgia">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" width="100%">
+      <h2>🟠 EXPOCOBRE 2028</h2>
+      <p><b>La Feria Internacional Líder para Impulsar la Industria Minera y Forjar el Futuro del Cobre</b></p>
+      <a href="http://expocobre.com">
+        <img src="https://img.shields.io/badge/EXPOMINERÍA-🔥_Ir_a_Expocobre.com-FF6F00?style=for-the-badge&logo=copper&logoColor=white" alt="Expocobre">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+[![Agenda](https://img.shields.io/badge/📅_AGENDA_COMPLETA-encuentrometalurgia.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://encuentrometalurgia.com/)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8408-032918872f2d.gif" width="100%" height="2px" />
+
+</div>
 
 ---
 
@@ -58,6 +129,24 @@
 ---
 
 ## 🤝 Formas de Participar en nuestros Eventos
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>✍️ Autor</h3>
+      <p>Presenta tu trabajo técnico e investigación ante la comunidad minera internacional.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🤝 Stands & Auspicios</h3>
+      <p>Posiciona tu empresa y soluciones tecnológicas frente a decisiones clave de la industria.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎟️ Asistencia</h3>
+      <p>Participa en nuestras ponencias y conéctate con líderes y expertos del sector.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 💻 Tech Stack & Herramientas
