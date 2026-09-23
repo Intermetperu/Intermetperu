@@ -80,15 +80,9 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
 >  Consulta toda la programación completa de eventos en **[encuentrometalurgia.com](https://encuentrometalurgia.com/)**
 
 ---
-
-## 🛠️ Áreas de Especialización
-
 | Área | Descripción |
 | :--- | :--- |
-| 🎓 **Capacitación Técnica** | Congresos y programas de actualización especializados para profesionales de minería, metalurgia e ingeniería. |
 | 🏗️ **Eventos Especializados** | Organización integral de congresos internacionales: gestión de ponentes, publicaciones, stands y auspicios. |
-| 🤖 **Software & IA Minera** | Desarrollo propio de plataformas para gestión de participantes, acreditación QR, automatización y bases de datos. |
-
 ---
 
 ##  Formas de Participar
