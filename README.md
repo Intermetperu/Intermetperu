@@ -1,9 +1,6 @@
 <div align="center">
 
 # ¡Hola! Somos InterMet 👋
-
-### 🏔️ Impulsando la Minería Global y la Innovación Tecnológica
-
 [![Web](https://img.shields.io/badge/Web-encuentrometalurgia.com-0B3C6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://encuentrometalurgia.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Congresos_InterMet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/congresos-intermet/)
 [![Facebook](https://img.shields.io/badge/Facebook-InterMetPeru-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/InterMetPeru/)
