@@ -68,14 +68,54 @@ Congresos técnicos internacionales que reúnen innovación, tecnología y exper
 
 ---
 
-### Tecnología que usamos
+<h3 align="center">Tecnología que usamos</h3>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<table align="center">
+  <tr>
+    <th align="center">💻 Desarrollo web</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/CodeIgniter_4-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    </td>
+  </tr>
+  <tr>
+    <th align="center">🗄️ Bases de datos</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Bases_de_datos_vectoriales-6E56CF?style=for-the-badge" alt="Bases de datos vectoriales">
+    </td>
+  </tr>
+  <tr>
+    <th align="center">🧠 Inteligencia artificial y datos</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+      <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG">
+      <img src="https://img.shields.io/badge/Web_Scraping-0B3C6E?style=for-the-badge" alt="Web Scraping">
+    </td>
+  </tr>
+  <tr>
+    <th align="center">🛠️ Herramientas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge" alt="Laragon">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+    </td>
+  </tr>
+</table>
 
 ---
 
