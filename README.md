@@ -1,4 +1,4 @@
-# ¡Hola! Somos InterMet 👋
+# ¡Hola! Somos InterMet 
 
 ### Impulsando la minería global
 
@@ -18,7 +18,7 @@ Congresos técnicos internacionales que reúnen innovación, tecnología y exper
 - ⚗️ **[Hidrometalurgia](https://encuentrometalurgia.com/hidrometalurgia-2024/)**
 - 🟠 **[Expocobre 2028](http://expocobre.com)**: feria internacional para impulsar la minería y forjar el futuro del cobre.
 
-👉 Toda la programación en [encuentrometalurgia.com](https://encuentrometalurgia.com/)
+ Toda la programación en [encuentrometalurgia.com](https://encuentrometalurgia.com/)
 
 ---
 
