@@ -24,21 +24,18 @@ Congresos técnicos internacionales que reúnen innovación, tecnología y exper
 
 <h3 align="center">Áreas de trabajo</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h2>🎓</h2>
-      <h4>Capacitación técnica</h4>
+      <h4>🎓 Capacitación técnica</h4>
       <p>Congresos y programas para profesionales de minería, metalurgia e ingeniería.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h2>🏗️</h2>
-      <h4>Eventos especializados</h4>
+      <h4>🏗️ Eventos especializados</h4>
       <p>Organización de congresos con ponentes, autores, stands y auspicios.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h2>🤖</h2>
-      <h4>Transformación digital minera</h4>
+      <h4>🤖 Transformación digital minera</h4>
       <p>Sistemas propios para gestionar participantes, credenciales, certificados y bases de contactos.</p>
     </td>
   </tr>
@@ -46,21 +43,18 @@ Congresos técnicos internacionales que reúnen innovación, tecnología y exper
 
 <h3 align="center">Formas de participar en nuestros eventos</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h2>✍️</h2>
-      <h4>Autor</h4>
+      <h4>✍️ Autor</h4>
       <p>Presenta tu trabajo técnico.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h2>🤝</h2>
-      <h4>Stands y/o auspicios</h4>
+      <h4>🤝 Stands y/o auspicios</h4>
       <p>Posiciona tu empresa ante la industria.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h2>🎟️</h2>
-      <h4>Asistencia</h4>
+      <h4>🎟️ Asistencia</h4>
       <p>Participa y actualízate con expertos del sector.</p>
     </td>
   </tr>
@@ -70,7 +64,7 @@ Congresos técnicos internacionales que reúnen innovación, tecnología y exper
 
 <h3 align="center">Tecnología que usamos</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <th align="center">💻 Desarrollo web</th>
   </tr>
