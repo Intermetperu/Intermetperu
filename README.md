@@ -1,4 +1,4 @@
-# InterMet 👋
+# InterMet 
 
 **Impulsando la Minería Global y la Innovación Tecnológica**
 
