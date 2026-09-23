@@ -2,7 +2,7 @@
 
 **Impulsando la Minería Global y la Innovación Tecnológica**
 
-Somos una empresa consultora peruana líder en capacitación técnica para profesionales mineros y de ramas de ingeniería afines. Organizamos congresos técnicos internacionales de alto nivel y desarrollamos nuestras propias herramientas digitales para la gestión integral de eventos.
+Somos una empresa  peruana líder en capacitación técnica para profesionales mineros y de ramas de ingeniería afines. Organizamos congresos técnicos internacionales de alto nivel y desarrollamos nuestras propias herramientas digitales para la gestión integral de eventos.
 
 [![Web](https://img.shields.io/badge/Web-encuentrometalurgia.com-0B3C6E?style=flat-square&logo=googlechrome&logoColor=white)](https://encuentrometalurgia.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Congresos_InterMet-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/congresos-intermet/)
@@ -12,7 +12,7 @@ Somos una empresa consultora peruana líder en capacitación técnica para profe
 
 ---
 
-## 🌐 CONGRESOS INTERNACIONALES
+##  CONGRESOS INTERNACIONALES
 
 <table width="100%">
   <tr>
