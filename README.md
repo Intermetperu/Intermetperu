@@ -13,8 +13,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 ##  CONGRESOS  INTERNACIONALES
@@ -22,20 +20,16 @@
 
 </div>
 
-<br>
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🧪 Flotación de Minerales</h3>
-      <p><i>Metalurgia, Reactivos y Procesos Fisicoquímicos</i></p>
       <a href="https://encuentrometalurgia.com/flotacion-2026/">
         <img src="https://img.shields.io/badge/Ver_Congreso_2026-✨_Explorar-0B3C6E?style=for-the-badge&logo=react&logoColor=white" alt="Flotación">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>💧 Aguas y Relaves</h3>
-      <p><i>Gestión Ambiental, Sostenibilidad y Economía Circular</i></p>
       <a href="https://encuentrometalurgia.com/aguas-y-relaves-2026/">
         <img src="https://img.shields.io/badge/Ver_Congreso_2026-🌊_Explorar-0077B6?style=for-the-badge&logo=droplet&logoColor=white" alt="Aguas y Relaves">
       </a>
@@ -44,14 +38,12 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Minería 5.0 & Excelencia</h3>
-      <p><i>Transformación Digital, Automatización e Inteligencia Artificial</i></p>
       <a href="https://encuentrometalurgia.com/mineria-5-0-2026/">
         <img src="https://img.shields.io/badge/Ver_Congreso_2026-⚡_Explorar-6E56CF?style=for-the-badge&logo=cpu&logoColor=white" alt="Minería 5.0">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Conminución</h3>
-      <p><i>Chancado, Molienda y Eficiencia Energética</i></p>
       <a href="https://encuentrometalurgia.com/conminucion2025/">
         <img src="https://img.shields.io/badge/Ver_Congreso-⚙️_Explorar-EE4623?style=for-the-badge&logo=settings&logoColor=white" alt="Conminución">
       </a>
@@ -60,22 +52,18 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🔬 Muestreo de Minerales</h3>
-      <p><i>Control de Calidad, Control de Pérdidas y Geometalurgia</i></p>
       <a href="https://encuentrometalurgia.com/muestreo-2027/">
         <img src="https://img.shields.io/badge/Ver_Congreso_2027-🔬_Explorar-339933?style=for-the-badge&logo=microscope&logoColor=white" alt="Muestreo">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>⚗️ Hidrometalurgia</h3>
-      <p><i>Lixiviación, Extracción por Solventes y Electroobtención</i></p>
       <a href="https://encuentrometalurgia.com/hidrometalurgia-2024/">
         <img src="https://img.shields.io/badge/Ver_Congreso-⚗️_Explorar-3776AB?style=for-the-badge&logo=flask&logoColor=white" alt="Hidrometalurgia">
       </a>
     </td>
   </tr>
 </table>
-
-<br>
 
 <div align="center">
 
@@ -146,8 +134,6 @@
 ## 💻 Tech Stack & Herramientas
 
 <div align="center">
-
-### Desarrollo Web & Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EE4623?style=flat-square&logo=codeigniter&logoColor=white)
@@ -155,14 +141,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### Inteligencia Artificial & Datos
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Architecture-FF6F00?style=flat-square&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-0B3C6E?style=flat-square&logoColor=white)
-
-### Bases de Datos & Entorno
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vector DBs](https://img.shields.io/badge/Vector_Databases-6E56CF?style=flat-square&logoColor=white)
