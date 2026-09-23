@@ -17,21 +17,21 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>🧪 Flotación</h3>
+      <h3> Flotación</h3>
       <p>Procesos fisicoquímicos y reactivos.</p>
       <a href="https://encuentrometalurgia.com/flotacion-2026/">
         <img src="https://img.shields.io/badge/Ver_Congreso_2026-_Explorar-0B3C6E?style=flat-square&logo=react&logoColor=white" width="100%" alt="Flotación">
       </a>
     </td>
     <td width="33%" valign="top">
-      <h3>💧 Aguas y Relaves</h3>
+      <h3> Aguas y Relaves</h3>
       <p>Gestión ambiental y sostenibilidad.</p>
       <a href="https://encuentrometalurgia.com/aguas-y-relaves-2026/">
         <img src="https://img.shields.io/badge/Ver_Congreso_2026-_Explorar-0077B6?style=flat-square&logo=droplet&logoColor=white" width="100%" alt="Aguas y Relaves">
       </a>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 Minería 5.0</h3>
+      <h3> Minería 5.0</h3>
       <p>Transformación digital e IA.</p>
       <a href="https://encuentrometalurgia.com/mineria-5-0-2026/">
         <img src="https://img.shields.io/badge/Ver_Congreso_2026-_Explorar-6E56CF?style=flat-square&logo=cpu&logoColor=white" width="100%" alt="Minería 5.0">
@@ -40,21 +40,21 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3>⚙️ Conminución</h3>
+      <h3> Conminución</h3>
       <p>Chancado, molienda y eficiencia.</p>
       <a href="https://encuentrometalurgia.com/conminucion2025/">
         <img src="https://img.shields.io/badge/Ver_Congreso-_Explorar-EE4623?style=flat-square&logo=settings&logoColor=white" width="100%" alt="Conminución">
       </a>
     </td>
     <td width="33%" valign="top">
-      <h3>🔬 Muestreo</h3>
+      <h3> Muestreo</h3>
       <p>Control de calidad y geometalurgia.</p>
       <a href="https://encuentrometalurgia.com/muestreo-2027/">
         <img src="https://img.shields.io/badge/Ver_Congreso_2027-_Explorar-339933?style=flat-square&logo=microscope&logoColor=white" width="100%" alt="Muestreo">
       </a>
     </td>
     <td width="33%" valign="top">
-      <h3>⚗️ Hidrometalurgia</h3>
+      <h3> Hidrometalurgia</h3>
       <p>Lixiviación y extracción por solventes.</p>
       <a href="https://encuentrometalurgia.com/hidrometalurgia-2024/">
         <img src="https://img.shields.io/badge/Ver_Congreso-⚗️_Explorar-3776AB?style=flat-square&logo=flask&logoColor=white" width="100%" alt="Hidrometalurgia">
@@ -82,7 +82,7 @@ Somos una empresa  peruana líder en capacitación técnica para profesionales m
 ---
 | Área | Descripción |
 | :--- | :--- |
-| 🏗️ **Eventos Especializados** | Organización integral de congresos internacionales: gestión de ponentes, publicaciones, stands y auspicios. |
+|**Eventos Especializados** | Organización integral de congresos internacionales: gestión de ponentes, publicaciones, stands y auspicios. |
 ---
 
 ##  Formas de Participar
